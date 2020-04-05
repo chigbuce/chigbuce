@@ -1,5 +1,5 @@
 let name = "Christian Chigbu";
-let Courses = "HTML, CSS, Javascript";
+let courses = "HTML, CSS, Javascript";
 console.log("My name is: " + name);
 console.log("My courses are:" + courses);
 const data = [];
